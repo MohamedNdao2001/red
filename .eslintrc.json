@@ -1,0 +1,7 @@
+module.exports = nextConfig
+
+// Créer .eslintrc.json à la racine du projet :
+{
+  "extends": "next/core-web-vitals"
+}
+

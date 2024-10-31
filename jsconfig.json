@@ -1,0 +1,9 @@
+// Créer jsconfig.json à la racine du projet :
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/": ["./"]
+    }
+  }
+}
